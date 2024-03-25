@@ -31,7 +31,7 @@ function App() {
     <Card username = "Alyananh" buttonTxt= "Visit me "  />
 
 
-    <Compo details = {Employed} Designers = {Designer}  />
+    <Compo   details = {Employed} Designers = {Designer}  />
 
     </>
   )
