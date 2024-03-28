@@ -20,6 +20,12 @@ function App() {
     Title : "Graphic Designer"
   }
   
+  const bootcamp = {
+    EmployName : "Adil HUssain",
+    EmployEmail : "Sibtain0934@gmail.com",
+    Active: "Not Active",
+    Title : "Graphic Designer"
+  }
   return (
 
     <>
